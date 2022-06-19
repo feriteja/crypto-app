@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "crypto-clonegecko"
+  },
+  "targets": {
+    "project-clone-d291a": {
+      "hosting": {
+        "crpto": [
+          "crypto-clonegecko"
+        ]
+      }
+    }
+  }
+}
